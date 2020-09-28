@@ -1,0 +1,57 @@
+			.box {
+			/* font-size: 20px;	
+			color: #FF69B4; */
+			}
+			
+			.btn {
+				position: absolute;
+				width: 16%;
+				height: 1.5%;
+				top: 12%;
+				left: 12%;
+			}
+			#imgs{
+				position: absolute;
+				width: 13.125px;
+				height: 20px;
+                background-image: url(../img/button.jpg);
+				top: 10px;
+				left: 20px;
+			}
+        .btn2 {
+         	position: absolute;
+         	width: 16%;
+         	height: 1.5%;
+         	bottom: 8%;
+         	left: 7%;
+         }
+		 #btn2 {
+		  	position: absolute;
+		  	width: 16%;
+		  	height: 1.5%;
+		  	bottom: 8%;
+		  	left: 7%;
+		  }
+		 .text{
+			 position: absolute;
+			 width: 16%;
+			 height: 0.5%;
+			 top: 0.4%;
+			 left: 65%;
+		
+			 color: azure;
+		 }
+		 .text2{
+		 			 position: absolute;
+		 			 width: 16%;
+		 			 height: 0.5%;
+		 			 top: 0.4%;
+		 			 left: 78%;
+		 	
+		 			 color: azure;
+		 }
+		/*元素选择器<.类选择器<id选择器<行内样式<!important
+		1          10       100      
+		继承首先是 两元素之前必须是父子关系（嵌套关系）
+		继承只会发生于特殊css属性上 比如 字体样式 opacity(元素透明度)
+		css 权重 层叠 继承
