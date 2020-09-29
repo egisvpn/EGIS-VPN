@@ -7,10 +7,8 @@ title: Privacy Policy
 **Last updated**  
 Oct. 01, 2020
 
+# Privacy Policy
 
-<br>
-
-* Privacy Policy
 The protection of your personal data is very important to us, and we understand our responsibilities to handle your personal data with care, to keep it secure and to comply with legal requirements.
 
 
