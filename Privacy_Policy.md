@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+---
+
+
 **Last updated**  
 Oct. 01, 2020
 
